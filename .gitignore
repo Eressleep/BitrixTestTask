@@ -1,0 +1,11 @@
+/bitrix/*
+!/bitrix/modules/iblock/
+!/bitrix/modules/sale*
+!/bitrix/modules/main*
+# включаем папку components, но исключаем components/bitrix
+!/bitrix/components
+/bitrix/components/bitrix/*
+/bitrix/components/yandex.market/*
+!/bitrix/components/bitrix/sale.basket.basket*
+!/bitrix/components/bitrix/sale.order.ajax*
+!/bitrix/components/bitrix/catalog.smart.filter/
