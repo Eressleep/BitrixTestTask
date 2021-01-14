@@ -22,3 +22,4 @@ IncludeTemplateLangFile(__FILE__);
 </div>
 
 <?endif?>
+
